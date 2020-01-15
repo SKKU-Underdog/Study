@@ -1,6 +1,6 @@
-#Quick Sort
+# Quick Sort
   
-'''
+<pre><code>
 #include <stdio.h>
 #include <stdlib.h> //랜덤함수 호출
 
@@ -74,4 +74,4 @@ int main()
 
     return 0;
 }
-'''
+</code></pre>
